@@ -8,11 +8,11 @@ Stable tag: 0.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-There is a free and interpreted version based on Hello Dolly and reinterpreted with expresions of a great comedy actor of Spain, Chiquito de la Calzada, who died at December 11. This plugin is in her memory.
+There is a free and interpreted version based on Hello Dolly and reinterpreted with expresions of a great comedy actor of Spain, Chiquito de la Calzada, who died at November 11. This plugin is in her memory.
 
 == Description ==
 
-There is a free and interpreted version based on Hello Dolly and reinterpreted with expresions of a great comedy actor of Spain, Chiquito de la Calzada, who died at December 11. This plugin is in her memory.
+There is a free and interpreted version based on Hello Dolly and reinterpreted with expresions of a great comedy actor of Spain, Chiquito de la Calzada, who died at November 11. This plugin is in her memory.
 
 == Installation ==
 
@@ -27,5 +27,5 @@ There is a free and interpreted version based on Hello Dolly and reinterpreted w
 
 == Changelog ==
 
-= 0.0.1 (December 13, 2017) =
+= 0.0.1 (November 11, 2017) =
 * **First Release**. This is the first release of this plugin based on the original Hello Dolly.
