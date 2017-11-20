@@ -40,21 +40,13 @@ Eres más peligroso que un tiroteo en un ascensor
 ¡Cobarderr!
 ¡Al ataquerrrr!
 Meretérita
-Cantando: Sieteee caballo que vienennn de Bonanzaaarrlll
-¡Ten cuidadínnn no te hagas pupita en el fistro duodenalll!
 ¡Jarl!
 ¡Que lo sepas!
 ¡Hijo míoorrr!
 ¡Er putaaarrr!
 ¡Hasta luego Lucasss!
 ¡Por la gloria de mi madre!
-Tienes más pintura que el neceser de Marujita Díaz
-Eres más falso que el flequillo del Dioni
-Eres más feo que el Fari comiendo limones
-Eres más peligroso que un tiroteo en un ascensor
 ¡Se ha pasao usted con mi bambina! ¡Es usted un torpedo del año cuatro!
-Ere ma violento que el entrenador de lo Pogüer Renlle
-Trabaja menos que el sastre de Tarzán
 Acapiporla
 Ay canemor
 A güán, a peich, agromenáuer
@@ -71,7 +63,6 @@ Se mueve uhté mah que los precioh!
 ¡Relájese usterl!
 Relájate físicamente, morálmente
 Lo maté en agosto, la calóh apretaba
-En vez del graduado escolar tenía una etiqueta de Anís del Mono
 ¡No compre pan!";
 
 	// Split the texto into lines
