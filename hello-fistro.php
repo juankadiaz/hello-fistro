@@ -8,7 +8,7 @@ Plugin Name: Hello Fistro
 Plugin URI: htts://jdevelopia.com
 Description: Esto no es sólo un plugin, simboliza la esperanza, el humor y la cultura de un gran maestro cómico e icono de la cultura pop española, como es Chiquito de la Calzada.
 Author: JuanKa Díaz
-Version: 0.0.3
+Version: 0.0.4
 Author URI: https://jdevelopia.com/
 GitHub Plugin URI: juankadiaz/hello-fistro.git
 GitHub Plugin URI: https://github.com/juankadiaz/hello-fistro.git
